@@ -5,11 +5,11 @@ This program will generate cypher queries and call them on a database that has b
 ## Set Up
 
 - To install all project dependencies (listed in requirements.txt) run `pip install -r requirements.txt`.
-
+- Obtain a Mistral API key from [here](https://mistral.ai/)
 
 ## Neo4j Database Set Up
 
-Neo4j Desktop, this can be downloaded [here](https://neo4j.com/download/)
+You will need to use Neo4j Desktop, this can be downloaded [here](https://neo4j.com/download/)
 
 Once installed follow the steps below:
 
